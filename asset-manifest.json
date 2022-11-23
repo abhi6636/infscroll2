@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infscroll2/static/css/main.b96f1052.css",
+    "main.js": "/infscroll2/static/js/main.47b3793a.js",
+    "index.html": "/infscroll2/index.html",
+    "main.b96f1052.css.map": "/infscroll2/static/css/main.b96f1052.css.map",
+    "main.47b3793a.js.map": "/infscroll2/static/js/main.47b3793a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96f1052.css",
+    "static/js/main.47b3793a.js"
+  ]
+}
